@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/9fe72ffe-e971-4d0a-92ce-31bf24a662d9
+
 # Text Summarizer
 
 This is a command-line tool that summarizes text using the Ollama API with the Qwen2 0.5B model. 
@@ -45,12 +48,6 @@ This will print the summary to the console.
 2. Summarize direct text input:
    python summarizer.py "The quick brown fox jumped over the lazy dog."
    Output: Prints "Summary of text pasted:" followed by the summary.
-
-
-
-https://github.com/user-attachments/assets/9fe72ffe-e971-4d0a-92ce-31bf24a662d9
-
-
 
 ## Note
 
